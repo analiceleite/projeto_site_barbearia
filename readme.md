@@ -1,1 +1,1 @@
-Olá, esse projeto consiste no remake de um jogo clássico!
+Olá, esse projeto consiste no desenvolvimento do site Barbearia Alura utilizando HTML e CSS.
